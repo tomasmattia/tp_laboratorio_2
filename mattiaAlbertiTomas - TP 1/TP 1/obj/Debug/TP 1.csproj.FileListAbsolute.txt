@@ -1,9 +1,0 @@
-C:\Users\tomas\source\repos\mattiaAlbertiTomas - TP 2\TP 2\bin\Debug\TP 2.exe.config
-C:\Users\tomas\source\repos\mattiaAlbertiTomas - TP 2\TP 2\bin\Debug\TP 2.exe
-C:\Users\tomas\source\repos\mattiaAlbertiTomas - TP 2\TP 2\bin\Debug\TP 2.pdb
-C:\Users\tomas\source\repos\mattiaAlbertiTomas - TP 2\TP 2\obj\Debug\TP_1.Form1.resources
-C:\Users\tomas\source\repos\mattiaAlbertiTomas - TP 2\TP 2\obj\Debug\TP_2.Properties.Resources.resources
-C:\Users\tomas\source\repos\mattiaAlbertiTomas - TP 2\TP 2\obj\Debug\TP 1.csproj.GenerateResource.Cache
-C:\Users\tomas\source\repos\mattiaAlbertiTomas - TP 2\TP 2\obj\Debug\TP 1.csproj.CoreCompileInputs.cache
-C:\Users\tomas\source\repos\mattiaAlbertiTomas - TP 2\TP 2\obj\Debug\TP 2.exe
-C:\Users\tomas\source\repos\mattiaAlbertiTomas - TP 2\TP 2\obj\Debug\TP 2.pdb
