@@ -8,3 +8,12 @@ C:\Users\tomas\source\repos\MattiaAlbertiTomas - TP1\TP1\obj\Debug\TP1.csproj.Ge
 C:\Users\tomas\source\repos\MattiaAlbertiTomas - TP1\TP1\obj\Debug\TP1.csproj.CoreCompileInputs.cache
 C:\Users\tomas\source\repos\MattiaAlbertiTomas - TP1\TP1\obj\Debug\TP1.exe
 C:\Users\tomas\source\repos\MattiaAlbertiTomas - TP1\TP1\obj\Debug\TP1.pdb
+C:\Users\tomas\tp_laboratorio_2\MattiaAlbertiTomas - TP1\TP1\bin\Debug\TP1.exe.config
+C:\Users\tomas\tp_laboratorio_2\MattiaAlbertiTomas - TP1\TP1\bin\Debug\TP1.exe
+C:\Users\tomas\tp_laboratorio_2\MattiaAlbertiTomas - TP1\TP1\bin\Debug\TP1.pdb
+C:\Users\tomas\tp_laboratorio_2\MattiaAlbertiTomas - TP1\TP1\obj\Debug\TP1.Form1.resources
+C:\Users\tomas\tp_laboratorio_2\MattiaAlbertiTomas - TP1\TP1\obj\Debug\TP1.Properties.Resources.resources
+C:\Users\tomas\tp_laboratorio_2\MattiaAlbertiTomas - TP1\TP1\obj\Debug\TP1.csproj.GenerateResource.Cache
+C:\Users\tomas\tp_laboratorio_2\MattiaAlbertiTomas - TP1\TP1\obj\Debug\TP1.csproj.CoreCompileInputs.cache
+C:\Users\tomas\tp_laboratorio_2\MattiaAlbertiTomas - TP1\TP1\obj\Debug\TP1.exe
+C:\Users\tomas\tp_laboratorio_2\MattiaAlbertiTomas - TP1\TP1\obj\Debug\TP1.pdb

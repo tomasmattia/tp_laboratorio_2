@@ -10,9 +10,8 @@ namespace TP1
     {
         private double _numero;
 
-        public Numero()
+        public Numero():this(numero:0)
         {
-            this._numero = 0;
         }
 
         public Numero(string numeroString)

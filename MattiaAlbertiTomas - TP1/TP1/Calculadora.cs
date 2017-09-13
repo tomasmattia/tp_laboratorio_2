@@ -20,7 +20,7 @@ namespace TP1
                 case "*":
                     return numero1.GetNumero() * numero2.GetNumero();
                 case "/":
-                    if (numero2.GetNumero() <= 0)
+                    if (numero2.GetNumero() == 0)
                     {
                         return 0;
                     }
