@@ -16,6 +16,8 @@ namespace TP1
         {
             InitializeComponent();
             this.Text = "Calculadora";
+            this.comboBox1.DropDownStyle = ComboBoxStyle.DropDownList;
+            this.comboBox1.SelectedIndex = 0;
         }
 
         private void Form1_Load(object sender, EventArgs e)
@@ -25,12 +27,12 @@ namespace TP1
 
         private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
         {
-
+            
         }
 
         private void clear_Click(object sender, EventArgs e)
         {
-            limpiar(this);
+            limpiar();
         }
 
         private void igual_Click(object sender, EventArgs e)
@@ -45,11 +47,12 @@ namespace TP1
 
         }
 
-        static private void limpiar(Form1 form)
+        public void limpiar()
         {
-            form.textBox1.Clear();
-            form.textBox2.Clear();
-            form.resultado.Text = "";
+            this.textBox1.Clear();
+            this.textBox2.Clear();
+            this.resultado.Text = "";
+            this.comboBox1.SelectedIndex = 0;
         }
     }
 }

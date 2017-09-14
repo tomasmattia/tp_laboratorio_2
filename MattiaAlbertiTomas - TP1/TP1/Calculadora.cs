@@ -8,6 +8,13 @@ namespace TP1
 {
     class Calculadora
     {
+        /// <summary>
+        /// Recibe objetos tipo numero y un string que determina que operacion se va a realizar entre ambos.
+        /// </summary>
+        /// <param name="numero1">Objeto tipo numero</param>
+        /// <param name="numero2">Objeto tipo numero</param>
+        /// <param name="operador">String con operador a realizar</param>
+        /// <returns></returns>
         static public double Operar(Numero numero1, Numero numero2, string operador)
         {
             operador = Calculadora.ValidarOperador(operador);
@@ -32,6 +39,11 @@ namespace TP1
                     return 0;
             }
         }
+        /// <summary>
+        /// Recibe el string que contiene al operador y valida que sea un operador valido, caso contrario por defecto devuelve "+"
+        /// </summary>
+        /// <param name="operador">String con operador a realizar</param>
+        /// <returns></returns>
         static public string ValidarOperador(string operador)
         {
             switch (operador)
