@@ -14,3 +14,9 @@ C:\Users\tomas\Downloads\Esquema-TP-02\TP-02\Entidades\obj\Debug\Entidades.pdb
 C:\Users\tomas\Downloads\Esquema-TP-02\TP-02\Entidades\bin\Debug\Entidades.dll
 C:\Users\tomas\Downloads\Esquema-TP-02\TP-02\Entidades\bin\Debug\Entidades.pdb
 C:\Users\tomas\Downloads\Esquema-TP-02\TP-02\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\tomas\Downloads\Esquema-TP-02\MattiaAlbertiTomas - TP2\Entidades\bin\Debug\Entidades.dll
+C:\Users\tomas\Downloads\Esquema-TP-02\MattiaAlbertiTomas - TP2\Entidades\bin\Debug\Entidades.pdb
+C:\Users\tomas\Downloads\Esquema-TP-02\MattiaAlbertiTomas - TP2\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\tomas\Downloads\Esquema-TP-02\MattiaAlbertiTomas - TP2\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\tomas\Downloads\Esquema-TP-02\MattiaAlbertiTomas - TP2\Entidades\obj\Debug\Entidades.dll
+C:\Users\tomas\Downloads\Esquema-TP-02\MattiaAlbertiTomas - TP2\Entidades\obj\Debug\Entidades.pdb
