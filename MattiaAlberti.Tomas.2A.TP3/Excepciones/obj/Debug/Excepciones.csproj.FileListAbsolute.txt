@@ -1,0 +1,5 @@
+C:\Users\tomas\source\MattiaAlberti.Tomas.2A.TP3\Excepciones\bin\Debug\Excepciones.dll
+C:\Users\tomas\source\MattiaAlberti.Tomas.2A.TP3\Excepciones\bin\Debug\Excepciones.pdb
+C:\Users\tomas\source\MattiaAlberti.Tomas.2A.TP3\Excepciones\obj\Debug\Excepciones.csproj.CoreCompileInputs.cache
+C:\Users\tomas\source\MattiaAlberti.Tomas.2A.TP3\Excepciones\obj\Debug\Excepciones.dll
+C:\Users\tomas\source\MattiaAlberti.Tomas.2A.TP3\Excepciones\obj\Debug\Excepciones.pdb
