@@ -28,7 +28,7 @@ namespace EntidadesAbstractas
 
         public override bool Equals(object obj)
         {
-            return this.GetType() == obj.GetType(); // REVISAR ESTO
+            return (obj is Universitario && this == (Universitario)obj);
         }
 
         public static bool operator ==(Universitario pg1, Universitario pg2)

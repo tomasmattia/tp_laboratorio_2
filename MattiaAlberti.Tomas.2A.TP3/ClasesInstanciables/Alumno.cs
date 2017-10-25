@@ -17,7 +17,7 @@ namespace ClasesInstanciables
         {
         }
 
-        public Alumno(int id, string nombre, string apellido, string dni, ENacionalidad nacionalidad, Universidad.EClases claseQueToma)/*:base(id,nombre,apellido,dni,nacionalidad)*/
+        public Alumno(int id, string nombre, string apellido, string dni, ENacionalidad nacionalidad, Universidad.EClases claseQueToma):base(id,nombre,apellido,dni,nacionalidad)
         {
             this._claseQueToma = claseQueToma;
         }

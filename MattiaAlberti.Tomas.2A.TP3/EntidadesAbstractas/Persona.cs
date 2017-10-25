@@ -42,6 +42,10 @@ namespace EntidadesAbstractas
                 {
                     this._nacionalidad = value;
                 }
+                else
+                {
+                    throw new NacionalidadInvalidaException();
+                }
             }
         }
 
@@ -61,25 +65,23 @@ namespace EntidadesAbstractas
         {
             set
             {
-                int dniValido;
-                int.TryParse(value, out dniValido);
-                this._dni = ValidarDni(this.Nacionalidad, dniValido);
+                this._dni = ValidarDni(this.Nacionalidad, value);
             }
         }
 
         public Persona()
         {
+            this._apellido = " ";
+            this._dni = 0;
+            this._nacionalidad = ENacionalidad.Argentino;
+            this._nombre = " ";
         }
 
-        public Persona(string nombre, string apellido, ENacionalidad nacionalidad) : this()
+        public Persona(string nombre, string apellido, ENacionalidad nacionalidad):this()
         {
             this.Apellido = apellido;
             this.Nombre = nombre;
-            if (nacionalidad != ENacionalidad.Argentino || nacionalidad != ENacionalidad.Extranjero)
-            {
-                throw new NacionalidadInvalidaException();
-            }
-            this._nacionalidad = nacionalidad;
+            this.Nacionalidad = nacionalidad;
         }
 
         public Persona(string nombre, string apellido, int dni, ENacionalidad nacionalidad) : this(nombre, apellido, nacionalidad)
@@ -99,7 +101,11 @@ namespace EntidadesAbstractas
 
         private int ValidarDni(ENacionalidad nacionalidad, int dato)
         {
-            if ((nacionalidad == ENacionalidad.Argentino && (dato > 1 && dato < 89999999)) || nacionalidad == ENacionalidad.Extranjero && dato > 89999999)
+            if (nacionalidad == ENacionalidad.Argentino && (dato > 0 && dato < 90000000))
+            {
+                return dato;
+            }
+            else if (nacionalidad == ENacionalidad.Extranjero && dato > 89999999)
             {
                 return dato;
             }
@@ -111,15 +117,7 @@ namespace EntidadesAbstractas
 
         private int ValidarDni(ENacionalidad nacionalidad, string dato)
         {
-            int datoInt;
-            if (int.TryParse(dato, out datoInt))
-            {
-                return ValidarDni(nacionalidad, datoInt);
-            }
-            else
-            {
-                throw new DniInvalidoException();
-            }
+            return ValidarDni(nacionalidad, int.Parse(dato));
         }
 
         private string ValidarNombreApellido(string dato)

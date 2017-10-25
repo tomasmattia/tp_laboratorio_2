@@ -31,14 +31,17 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="ClasesInstanciables">
-      <HintPath>..\ClasesInstanciables\bin\Debug\ClasesInstanciables.dll</HintPath>
+    <Reference Include="ClasesInstanciables, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\ClasesInstanciables\obj\Debug\ClasesInstanciables.dll</HintPath>
     </Reference>
-    <Reference Include="EntidadesAbstractas">
-      <HintPath>..\EntidadesAbstractas\bin\Debug\EntidadesAbstractas.dll</HintPath>
+    <Reference Include="EntidadesAbstractas, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.dll</HintPath>
     </Reference>
-    <Reference Include="Excepciones">
-      <HintPath>..\EntidadesAbstractas\bin\Debug\Excepciones.dll</HintPath>
+    <Reference Include="Excepciones, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Excepciones\obj\Debug\Excepciones.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
