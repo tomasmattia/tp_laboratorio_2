@@ -1,0 +1,15 @@
+C:\Users\tomas\source\repos\Mattia.Tomas.2A.TP3\Mattia.Tomas.2A.TP3\obj\Debug\Consola.csprojResolveAssemblyReference.cache
+C:\Users\tomas\source\repos\Mattia.Tomas.2A.TP3\Mattia.Tomas.2A.TP3\obj\Debug\Consola.csproj.CoreCompileInputs.cache
+C:\Users\tomas\source\repos\Mattia.Tomas.2A.TP3\Mattia.Tomas.2A.TP3\bin\Debug\ClasesInstanciables.dll
+C:\Users\tomas\source\repos\Mattia.Tomas.2A.TP3\Mattia.Tomas.2A.TP3\bin\Debug\EntidadesAbstractas.dll
+C:\Users\tomas\source\repos\Mattia.Tomas.2A.TP3\Mattia.Tomas.2A.TP3\bin\Debug\Excepciones.dll
+C:\Users\tomas\source\repos\Mattia.Tomas.2A.TP3\Mattia.Tomas.2A.TP3\bin\Debug\ClasesInstanciables.pdb
+C:\Users\tomas\source\repos\Mattia.Tomas.2A.TP3\Mattia.Tomas.2A.TP3\bin\Debug\EntidadesAbstractas.pdb
+C:\Users\tomas\source\repos\Mattia.Tomas.2A.TP3\Mattia.Tomas.2A.TP3\bin\Debug\Excepciones.pdb
+C:\Users\tomas\source\repos\Mattia.Tomas.2A.TP3\Mattia.Tomas.2A.TP3\bin\Debug\Consola.exe.config
+C:\Users\tomas\source\repos\Mattia.Tomas.2A.TP3\Mattia.Tomas.2A.TP3\bin\Debug\Consola.exe
+C:\Users\tomas\source\repos\Mattia.Tomas.2A.TP3\Mattia.Tomas.2A.TP3\bin\Debug\Consola.pdb
+C:\Users\tomas\source\repos\Mattia.Tomas.2A.TP3\Mattia.Tomas.2A.TP3\obj\Debug\Consola.exe
+C:\Users\tomas\source\repos\Mattia.Tomas.2A.TP3\Mattia.Tomas.2A.TP3\obj\Debug\Consola.pdb
+C:\Users\tomas\source\repos\Mattia.Tomas.2A.TP3\Mattia.Tomas.2A.TP3\bin\Debug\Archivos.dll
+C:\Users\tomas\source\repos\Mattia.Tomas.2A.TP3\Mattia.Tomas.2A.TP3\bin\Debug\Archivos.pdb
